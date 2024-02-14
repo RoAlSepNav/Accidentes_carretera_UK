@@ -11,7 +11,7 @@
 
 
 ### Descripción del Proyecto :clipboard:
-Este proyecto se basa en el análisis de datos proporcionados en el archivo `Road Accident Data.xlsx`.
+Este proyecto se basa en el análisis de datos proporcionados en el archivo `Road Accident Data.xlsx` y compara información de accidentes para los años 2020 y 2021 ocurridos en Reino Unido.
 
 
 ### Herramientas Utilizadas :wrench:
